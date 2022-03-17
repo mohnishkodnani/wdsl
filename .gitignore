@@ -1,0 +1,9 @@
+target
+build
+.metals
+.idea
+.vscode
+.DS_Store
+.bloop
+project/.bloop
+TAGS
